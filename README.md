@@ -1,5 +1,5 @@
-```
-# PyExtract
+
+## About
 
 PyExtract is a versatile Python-powered archive extraction tool that simplifies the process of extracting files from various archive formats, including zip (.zip) and tar archives (.tar, .tar.gz, .tgz). With PyExtract, you can effortlessly extract files and directories, making it your go-to tool for managing compressed archives.
 
