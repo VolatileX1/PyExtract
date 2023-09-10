@@ -14,7 +14,7 @@ PyExtract is a versatile Python-powered archive extraction tool that simplifies 
 ## Usage
 
 ```bash
-python archive_extractor.py example.zip extracted/
+python pyextract.py example.zip extracted/
 ```
 
 ## Getting Started
